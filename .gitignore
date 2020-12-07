@@ -1,0 +1,7 @@
+# temporaries
+._*
+obj/
+bin/
+*.o
+timestamp.*
+.vscode/
